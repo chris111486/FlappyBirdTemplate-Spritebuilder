@@ -17,6 +17,6 @@
 }
 
 // put new methods here
-[character flap];
+[Character Flap];
 
 @end
